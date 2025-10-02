@@ -1,0 +1,2 @@
+This is sample1.txt
+Hello, world! This is a plain text file served by the HTTP server.
